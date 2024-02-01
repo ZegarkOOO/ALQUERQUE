@@ -1,0 +1,20 @@
+﻿  Bot.cpp
+  Button.cpp
+  Confirm.cpp
+  DisplayRanking.cpp
+  Filds.cpp
+  Game.cpp
+C:\Users\kondz\OneDrive\Pulpit\projekt cpp\ALQUERQUE\ALQUERQUE\Game.cpp(27,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kondz\OneDrive\Pulpit\projekt cpp\ALQUERQUE\ALQUERQUE\Game.cpp(346,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\kondz\OneDrive\Pulpit\projekt cpp\ALQUERQUE\ALQUERQUE\Game.cpp(352,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kondz\OneDrive\Pulpit\projekt cpp\ALQUERQUE\ALQUERQUE\Game.cpp(466,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Menu.cpp
+  mode.cpp
+  Pawn.cpp
+  RankingList.cpp
+  Record.cpp
+  TheEnd.cpp
+  Generating Code...
+C:\Users\kondz\OneDrive\Pulpit\projekt cpp\ALQUERQUE\ALQUERQUE\Pawn.cpp(115): warning C4715: 'Pawn::update_move': not all control paths return a value
+  ALQUERQUE.vcxproj -> C:\Users\kondz\OneDrive\Pulpit\projekt cpp\ALQUERQUE\x64\Debug\ALQUERQUE.exe

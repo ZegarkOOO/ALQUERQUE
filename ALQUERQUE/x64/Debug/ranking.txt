@@ -1,0 +1,4 @@
+BOT	Konrad	30	20
+Zegar	BOT	33	53
+Cichy	BOT	39	46
+Student	BOT	87	122
