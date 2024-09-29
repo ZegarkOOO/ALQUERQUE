@@ -1,2 +1,2 @@
 # ALQUERQUE
-Alquerque game in c++ with Sfml library
+Alquerque game in object c++ with Sfml library
