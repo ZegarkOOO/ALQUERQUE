@@ -5,7 +5,7 @@ Game is similar to checkers, one player must move pawns that don't be place behi
 Opponent can kill yours pawns jumping over on the free space.
 
 Game has 2 modes: multi (2 players) and single (1 player + bot)
-Bot make moves based his logical structur.
+Bot automatically make moves based his logical algorithm (self-written). 
 
 We can see our scores in the Ranking. Algorithm saves only 10 best scores.
 
